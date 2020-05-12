@@ -1,0 +1,38 @@
+body {
+    background-image:url('https://pm1.narvii.com/6880/4df3045a5d3cc1a787d9561ead6960973c76ddcer1-1280-1014v2_hq.jpg');
+    background-size: auto 100vh  ;
+    font-family: Verdana;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color:black;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtittle,
+  .site-tittle{
+    color: #00ffff;
+    text-align: center;
+  }
+  
+  .site-subtittle{
+    font-style: italic;
+  }
